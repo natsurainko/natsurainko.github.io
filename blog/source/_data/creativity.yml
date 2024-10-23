@@ -1,0 +1,35 @@
+- class_name: 开启创造力
+  creativity_list:
+    - name: C#
+      color: "#5d9d5d"
+      icon: data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgICA8cmVjdCB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIGZpbGw9IiM1ZDlkNWQiLz4KICAgIDx0ZXh0IHg9IjAiIHk9IjUwIiBmb250LWZhbWlseT0iQ29uc29sYSIgZm9udC13ZWlnaHQ9IkJvbGQiIGZvbnQtc2l6ZT0iNDgiIGZpbGw9IndoaXRlIj5DIzwvdGV4dD4KPC9zdmc+
+    - name: .NET
+      color: "#5a2add"
+      icon: data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgICA8cmVjdCB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIGZpbGw9IiM1YTJhZGQiLz4KICAgIDx0ZXh0IHg9IjIiIHk9IjQyIiBmb250LWZhbWlseT0iQXJpYWwiIGZvbnQtd2VpZ2h0PSJCb2xkIiBmb250LXNpemU9IjI2IiBmaWxsPSJ3aGl0ZSI+Lk5FVDwvdGV4dD4KPC9zdmc+
+    - name: Java
+      color: "#fff"
+      icon: https://bu.dusays.com/2023/04/09/643293b1184e9.jpg
+    - name: Photoshop
+      color: "#4082c3"
+      icon: https://bu.dusays.com/2022/12/15/639aa3a5c240e.png
+    - name: Node
+      color: "#333"
+      icon: https://npm.elemecdn.com/anzhiyu-blog@2.1.1/img/svg/node-logo.svg
+    - name: Webpack
+      color: "#2e3a41"
+      icon: https://bu.dusays.com/2023/04/09/643293b68026c.png
+    - name: Python
+      color: "#fff"
+      icon: https://bu.dusays.com/2023/04/09/643293b1230f7.png
+    - name: Vue
+      color: "#b8f0ae"
+      icon: https://bu.dusays.com/2023/04/09/643293b6788bd.png
+    - name: JS
+      color: "#f7cb4f"
+      icon: https://bu.dusays.com/2023/04/09/643293b121f02.png
+    - name: HTML
+      color: "#e9572b"
+      icon: https://bu.dusays.com/2022/12/15/639aa3a5c241c.png
+    - name: Git
+      color: "#df5b40"
+      icon: https://bu.dusays.com/2023/04/09/643293b10ccdd.webp
