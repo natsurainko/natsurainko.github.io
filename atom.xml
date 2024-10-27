@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>natsurainko 的博客</title>
+  
+  <subtitle>Forever young erver strong ever brave</subtitle>
+  <link href="https://natsurainko.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://natsurainko.github.io/"/>
+  <updated>2024-10-23T15:24:29.600Z</updated>
+  <id>https://natsurainko.github.io/</id>
+  
+  <author>
+    <name>Natsurainko</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>使用 hexo + github pages 搭建个人博客</title>
+    <link href="https://natsurainko.github.io/2024/10/23/%E4%BD%BF%E7%94%A8-hexo-github-pages-%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://natsurainko.github.io/2024/10/23/%E4%BD%BF%E7%94%A8-hexo-github-pages-%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</id>
+    <published>2024-10-23T13:55:53.000Z</published>
+    <updated>2024-10-23T15:24:29.600Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="开发实践" scheme="https://natsurainko.github.io/categories/%E5%BC%80%E5%8F%91%E5%AE%9E%E8%B7%B5/"/>
+    
+    
+    <category term="hexo" scheme="https://natsurainko.github.io/tags/hexo/"/>
+    
+    <category term="github-pages" scheme="https://natsurainko.github.io/tags/github-pages/"/>
+    
+    <category term="web" scheme="https://natsurainko.github.io/tags/web/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://natsurainko.github.io/2024/10/23/hello-world/"/>
+    <id>https://natsurainko.github.io/2024/10/23/hello-world/</id>
+    <published>2024-10-23T12:29:47.515Z</published>
+    <updated>2024-10-23T12:29:47.515Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
