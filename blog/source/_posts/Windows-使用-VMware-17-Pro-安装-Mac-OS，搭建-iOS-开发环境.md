@@ -6,7 +6,7 @@ tags:
     - iOS
     - VMware
     - Xcode
-top-image: /images/_posts/Windows-使用-VMware-17-Pro-安装-Mac-OS，搭建-iOS-开发环境/top-img.png
+top_img: /images/2024-10-28/top-image.png
 ---
 
 #### 本文参考文章
@@ -140,6 +140,6 @@ smbios.reflectHost = "FALSE"
 **至此完成了整个开发环境的搭建**  
 过程十分艰难，我在此也只是概述其中步骤，并之抓了几个注意点阐述，更多的还是需要网上查阅大量的资料，结合自身情况考虑每一步操作
 
-![展示 1](/images/_posts/Windows-使用-VMware-17-Pro-安装-Mac-OS，搭建-iOS-开发环境/1.png "属性")
-![展示 2](/images/_posts/Windows-使用-VMware-17-Pro-安装-Mac-OS，搭建-iOS-开发环境/2.png "Xcode 连接 iPhone")
+![展示 1](/images/2024-10-28/1.png "属性")
+![展示 2](/images/2024-10-28/2.png "Xcode 连接 iPhone")
 
