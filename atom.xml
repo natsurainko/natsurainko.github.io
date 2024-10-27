@@ -6,7 +6,7 @@
   <link href="https://natsurainko.github.io/atom.xml" rel="self"/>
   
   <link href="https://natsurainko.github.io/"/>
-  <updated>2024-10-23T15:24:29.600Z</updated>
+  <updated>2024-10-27T16:16:42.973Z</updated>
   <id>https://natsurainko.github.io/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Windows 使用 VMware 17 Pro 安装 Mac OS，搭建 iOS 开发环境</title>
+    <link href="https://natsurainko.github.io/2024/10/27/Windows-%E4%BD%BF%E7%94%A8-VMware-17-Pro-%E5%AE%89%E8%A3%85-Mac-OS%EF%BC%8C%E6%90%AD%E5%BB%BA-iOS-%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/"/>
+    <id>https://natsurainko.github.io/2024/10/27/Windows-%E4%BD%BF%E7%94%A8-VMware-17-Pro-%E5%AE%89%E8%A3%85-Mac-OS%EF%BC%8C%E6%90%AD%E5%BB%BA-iOS-%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/</id>
+    <published>2024-10-27T14:43:37.000Z</published>
+    <updated>2024-10-27T16:16:42.973Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="开发实践" scheme="https://natsurainko.github.io/categories/%E5%BC%80%E5%8F%91%E5%AE%9E%E8%B7%B5/"/>
+    
+    
+    <category term="iOS" scheme="https://natsurainko.github.io/tags/iOS/"/>
+    
+    <category term="VMware" scheme="https://natsurainko.github.io/tags/VMware/"/>
+    
+    <category term="Xcode" scheme="https://natsurainko.github.io/tags/Xcode/"/>
+    
+  </entry>
   
   <entry>
     <title>使用 hexo + github pages 搭建个人博客</title>
