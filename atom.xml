@@ -6,7 +6,7 @@
   <link href="https://natsurainko.github.io/atom.xml" rel="self"/>
   
   <link href="https://natsurainko.github.io/"/>
-  <updated>2024-10-27T16:32:02.343Z</updated>
+  <updated>2025-03-17T14:47:48.396Z</updated>
   <id>https://natsurainko.github.io/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>ConnectX 服务端部署指南</title>
+    <link href="https://natsurainko.github.io/2025/03/17/ConnectX%20%E6%9C%8D%E5%8A%A1%E7%AB%AF%E9%83%A8%E7%BD%B2%E6%8C%87%E5%8D%97/"/>
+    <id>https://natsurainko.github.io/2025/03/17/ConnectX%20%E6%9C%8D%E5%8A%A1%E7%AB%AF%E9%83%A8%E7%BD%B2%E6%8C%87%E5%8D%97/</id>
+    <published>2025-03-17T14:43:37.000Z</published>
+    <updated>2025-03-17T14:47:48.396Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="DotNet-开发" scheme="https://natsurainko.github.io/categories/DotNet-%E5%BC%80%E5%8F%91/"/>
+    
+    
+    <category term="C#" scheme="https://natsurainko.github.io/tags/C/"/>
+    
+    <category term="Minecraft" scheme="https://natsurainko.github.io/tags/Minecraft/"/>
+    
+    <category term=".NET 9" scheme="https://natsurainko.github.io/tags/NET-9/"/>
+    
+  </entry>
   
   <entry>
     <title>Windows 使用 VMware 17 Pro 安装 Mac OS，搭建 iOS 开发环境</title>
