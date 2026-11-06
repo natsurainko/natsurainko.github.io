@@ -1,0 +1,25 @@
+title: natsurainko
+author: natsurainko
+description: Technical Notes
+
+url: "https://natsurainko.github.io"
+baseurl: ""
+
+remote_theme: riggraz/no-style-please
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+
+markdown: kramdown
+highlighter: rouge
+
+permalink: /:year/:month/:day/:title.html
+
+theme_config:
+  appearance: "light"
+  back_home_text: ".."
+  date_format: "%Y-%m-%d"
+  show_description: true
+  lowercase_titles: false

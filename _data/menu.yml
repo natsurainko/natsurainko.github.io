@@ -1,0 +1,9 @@
+entries:
+  - title: About
+    url: /about.html
+
+  - title: GitHub
+    url: https://github.com/natsurainko
+
+  - title: Posts
+    post_list: true
