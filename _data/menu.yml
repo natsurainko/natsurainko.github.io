@@ -1,11 +1,9 @@
 entries:
-  - title: Menu
-    entries:
-      - title: About
-        url: /about.html
+  - title: About
+    url: /about.html
 
-      - title: GitHub
-        url: https://github.com/natsurainko
+  - title: GitHub
+    url: https://github.com/natsurainko
 
-      - title: Posts
-        post_list: true
+  - title: Posts
+    post_list: true
